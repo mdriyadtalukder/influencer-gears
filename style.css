@@ -292,6 +292,9 @@ footer h2{
     #icons-bar:checked ~ .bar-container{
         transform: translateY(0px);
     }
+    .describtions{
+      padding-left: 40px;
+    }
     .button{
         margin: 0 0;
     }
